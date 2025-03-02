@@ -1,0 +1,2 @@
+# Rainfall_prediction_using_STL_decomposition_GRU_MTGRU_
+Forecasting rainfall using STL-Decomposition and Deep-Learning models
