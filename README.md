@@ -5,7 +5,7 @@ This project focuses on forecasting daily rainfall using a hybrid approach that 
 
 ## Dataset
 The dataset used is available on [Kaggle](https://www.kaggle.com/datasets/parthdande/timeseries-weather-dataset).
-
+The notebook can be seen live on [Kaggle notebook](https://www.kaggle.com/code/patelprerak510/stl-decomposition-gru-lightgbm-rainfall-prediction)
 The dataset was preprocessed to handle missing values and resampled for daily predictions.
 
 ## Methodology
